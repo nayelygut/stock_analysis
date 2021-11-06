@@ -42,4 +42,4 @@ One thing to note is that the code usually takes the longest the firs time you r
 
 The advantages of refactoring code are a chance to polish your work by making it more readable and efficient. The downside is that it takes extra time and effort to get the same information. So, it has to be code that takes a really long time to run in order for the refactoring to be worth it. 
 
-In this situation, we were able to get the refactored code to run 8 times faster than the original code. It was a huge improvement, but since we are comparing seconds it is hard to notice without measuring. 
+In this situation, we were able to get the refactored code to run 8 times faster than the original code. It was a huge improvement.
