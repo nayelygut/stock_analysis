@@ -28,10 +28,12 @@ The 12 tickers compared in this analysis did much better in 2017. All but on got
 ###Time
 The refactored code took 0.2 seconds to run, while the original code took 1.8 seconds for the year 2018. So refactoring the code by using the arrays and index made it a lot faster.
 
-Code runt time before refactoring:
-![](Resources/VBA_Old_code_2018.png)
+Code run time before refactoring:
+
+![](Resources/VBA_Old_2018.png)
 
 Code run time after refactoring: 
+
 ![](Resources/VBA_Challenge_2018.png)
 
 One thing to note is that the code usually takes the longest the firs time you run it, and there are slight decreases in time if you run it again. Therefore, the numbers I got above might not match exactly what other people get. 
